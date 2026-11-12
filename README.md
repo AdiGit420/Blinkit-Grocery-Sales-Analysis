@@ -178,8 +178,6 @@ Blinkit-Grocery-Sales-Analysis/
     └── Blinkit_Dashboard_Screenshot.png
 ```
 
-You may also add the PDF project report to the repository if its file
-size and the repository's sharing/licensing requirements permit.
 
 ## How to Use
 
